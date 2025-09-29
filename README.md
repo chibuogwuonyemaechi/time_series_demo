@@ -32,3 +32,12 @@ jupyter notebook demand_forecasting_demo.ipynb
 ## Notes
 - Prophet and TensorFlow are optional; cells handle missing packages gracefully.
 - Swap in electricity/water demand by replacing the data loader cell.
+
+## Results (sample)
+<p>
+  <img src="images/overlay.png" width="800" />
+</p>
+<p>
+  <img src="images/arima_val.png" width="400" />
+  <img src="images/lstm_val.png"  width="400" />
+</p>
