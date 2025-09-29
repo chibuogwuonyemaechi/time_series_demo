@@ -1,7 +1,11 @@
 
 # Demand Forecasting Demo — ARIMA/Prophet vs LSTM
 
-This notebook shows a simple, interview-ready time-series workflow:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/chibuogwuonyemaechi/time_series_demo/blob/main/demand_forecasting_demo.ipynb
+)
+
+This notebook shows a simple time-series workflow:
 
 - Load a monthly series (embedded **AirPassengers**, no internet required)
 - Train/validation split
